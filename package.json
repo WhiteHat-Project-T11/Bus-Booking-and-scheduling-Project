@@ -1,0 +1,24 @@
+{
+  "name": "bus-scheduling-and-booking-project",
+  "version": "1.0.0",
+  "description": "Bus scheduling and booking platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhiteHat-Project-T11/Bus-Booking-and-scheduling-Project.git"
+  },
+  "keywords": [
+    "bus",
+    "schedule",
+    "booking"
+  ],
+  "author": "WhiteHat Intern Team 11",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WhiteHat-Project-T11/Bus-Booking-and-scheduling-Project/issues"
+  },
+  "homepage": "https://github.com/WhiteHat-Project-T11/Bus-Booking-and-scheduling-Project#readme"
+}
