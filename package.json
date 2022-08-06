@@ -4,7 +4,8 @@
   "description": "Bus scheduling and booking platform",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "server": "node backend/server.js",
+    "start": "nodemon backend/server.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/WhiteHat-Project-T11/Bus-Booking-and-scheduling-Project/issues"
   },
-  "homepage": "https://github.com/WhiteHat-Project-T11/Bus-Booking-and-scheduling-Project#readme"
+  "homepage": "https://github.com/WhiteHat-Project-T11/Bus-Booking-and-scheduling-Project#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.1"
+  }
 }
